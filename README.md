@@ -11,4 +11,9 @@
    2.年限：minWorkYear,&emsp;maxWorkYear<br/>
    3.年龄:minAge,&emsp;maxAge<br/>
    4.更新天数：minUpdatedDays, &emsp;maxUpdatedDays<br/>
-      
+   
+   
+
+##要求##
+-点击按钮时，根据类型的不同弹出不同的框
+-页面时最多允许弹出一个筛选窗口
